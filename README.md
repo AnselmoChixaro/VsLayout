@@ -1,2 +1,2 @@
 # VsLayout
-a repository to download a VS Laoout to install offline.
+a repository to download a VS Layout to install offline.
